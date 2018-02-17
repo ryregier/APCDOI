@@ -43,7 +43,7 @@ while True: #opening DOI list
         print ("Can't find the file")
         continue
 
-print(datetime.now())
+#print(datetime.now())
 
 doi_list = list() #DOI list to append found dois
 Dcount = 0
@@ -300,4 +300,4 @@ print ("The total sum of these being $",total_price,user_currency)
 print ("There were",len(broken_doi),"DOI errors")
 print (csv_name,"exported with the data.")
 os.startfile(csv_name)
-print(datetime.now())
+#print(datetime.now())
