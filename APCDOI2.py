@@ -1,5 +1,4 @@
 email = "" #Please entry your email here in between the quotes. This is so the Crossref and OADOI know who is making use of their APIs.
-email = 'ryregier@gmail.com'
 user_currency = "USD"
 
 import urllib.request, urllib.parse, urllib.error
