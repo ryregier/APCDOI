@@ -52,3 +52,5 @@ The Gold/Hybrid determination is made based on the Unpaywall data using the belo
 - Green: Available open access on a non-publisher website
 
 **Please Note**: Some items labelled as Bronze may actually be Hybrid or Gold, unfortunately there is no way to tell for sure based on the metadata available. For more information about the struggles with Bronze OA I suggest reading [this study](https://peerj.com/articles/4375/)
+
+The currency conversion is also based on the current exchange rates of each currency. So if you are looking at an article published in 2006 and the journal's apc is listed in EUR, the exchange rate to USD will not produce the actual cost of item because the exchange rate was likely different back then.
