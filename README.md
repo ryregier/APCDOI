@@ -35,7 +35,9 @@ Currently it is about 2 minutes for every 250 DOIs...but I'm looking at speeding
 
 When completed, it will return the following information and automatically open a csv file with the analysis:
   > 100 out of 110 Gold or Hybrid DOIs were found with APC info.
+  
   > The total sum of these being $ 30578 USD
+  
   > There were 2 DOI errors
  
  For the format of the exported csv file, please look at [example_export.csv](https://github.com/ryregier/APCDOI/blob/master/example_export.csv)
