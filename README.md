@@ -1,5 +1,5 @@
 # APCDOI.py
-This is a python program for which you can enter a list of DOIs in a csv file and it will make use of the [Unpaywall API](http://unpaywall.org/api/v2) and a [json file of Article Proccessing Charges (APCs)](https://github.com/ryregier/APCPrices) that I have assembled to find out what journal articles are Gold or Hybrid open access and how much the APC for each of these articles are.
+This is a python program for which you can enter a list of DOIs in a csv file and it will make use of the [Unpaywall API](http://unpaywall.org/api/v2) and a [JSON file of Article Proccessing Charges (APCs)](https://github.com/ryregier/APCPrices) that I have assembled to find out what journal articles are Gold or Hybrid open access and how much the APC for each of these articles are.
 
 ## APCDOI.py for those without programming experience
 
