@@ -14,7 +14,7 @@ Your email is required so that Unpaywall can keep an idea how their API is being
 ## Using APCDOI.py
 If don't add you email to the first line, the program will not run, so be sure to do this.
 
-Also you will notice on line 3 that the currency defaults to USD. If you want to change the currency, just replace USD with the three letter shortform of the currency you want to use. (e.g. user_currency = "CDN")
+Also you will notice on line 2 that the currency defaults to USD. If you want to change the currency, just replace USD with the three letter shortform of the currency you want to use. (e.g. user_currency = "CDN")
 
 Three important things to take note of when importing the csv file:
   1. **Please make sure the DOIs are in the first column**. See the [example_import.csv](https://github.com/ryregier/APCDOI/blob/master/example_import.csv) for an example.
