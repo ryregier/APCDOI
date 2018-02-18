@@ -31,7 +31,7 @@ It will then tell you how many DOIs are found, import the APCPrices JSON file fo
   
   > APCPrices JSON file loaded. Beginning analysis. This will likely take around 2 minutes...
   
-Currently it is about 2 minutes for every 250 DOIs...but I'm looking at speeding this up.
+Currently it is about 3 minutes for every 250 DOIs...but I'm looking at speeding this up.
 
 When completed, it will return the following information and automatically open a csv file with the analysis:
   > 100 out of 110 Gold or Hybrid DOIs were found with APC info.
