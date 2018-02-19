@@ -25,9 +25,9 @@ def grab(x): #returning values and returning "unknown" if value error
 
 def time(x):
     if x/80 < 1:
-        return "1 minute..."
+        return 1
     else:
-        a = int(x/80) + " minutes..."
+        a = int(x/80)
         return a
 
 #fh = open("DOIlist.csv",encoding="utf8")
@@ -64,7 +64,7 @@ try:
     uh = urllib.request.urlopen(APCurl)
     data = uh.read().decode()
     APCdata = json.loads(data) #loading APCprices json file
-    print ("APCPrices JSON file loaded. Beginning analysis. This will likely take around", time(Dcount))
+    print ("APCPrices JSON file loaded. Beginning analysis. This will likely take around", time(Dcount), "minutes...")
 except:
     print ("Error with pulling JSON file from Github")
 
