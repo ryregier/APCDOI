@@ -37,6 +37,7 @@ doi_list = list() #DOI list to append found dois
 Dcount = 0
 broken_doi = list()
 
+
 serviceurl = 'https://api.unpaywall.org/v2/'
 APCurl = 'https://raw.githubusercontent.com/ryregier/APCPrices/master/APCPrices'
 
