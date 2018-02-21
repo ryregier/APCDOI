@@ -26,12 +26,12 @@ When you run the program, the first line will prompt you to enter the filename. 
   
   > DOIlist.csv
 
-It will then tell you how many DOIs are found, import the APCPrices JSON file for analysis, and give you a time estimate for completion:
-  > 170 DOIs found. Loading APCprices JSON file for analysis...
+It will then import the APCPrices JSON file for analysis, tell you how many DOIs are found, and give you a time estimate for completion:
+  > APCPrices JSON file loaded. Beginning analysis...
   
-  > APCPrices JSON file loaded. Beginning analysis. This will likely take around 2 minutes...
+  > 1345 DOIs found. This should take about 1 minute per 1000 DOIs depending on speed of your computer
   
-Currently it is about 3 minutes for every 250 DOIs...but I'm looking at speeding this up.
+Currently it is about 1 minute for every 1000 DOIs...but this depends on the speed of your computer!
 
 When completed, it will return the following information and automatically open a csv file with the analysis:
   > 100 out of 110 Gold or Hybrid DOIs were found with APC info.
